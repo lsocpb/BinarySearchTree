@@ -19,3 +19,7 @@ bst.insert(5);
 # deleting number 5 from tree.
 bst.delete(5);
 ```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
