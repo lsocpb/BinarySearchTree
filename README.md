@@ -10,7 +10,7 @@ Binary Search Tree (BST), also called an ordered or sorted binary tree, is a roo
 
 
 ```java
-
+# creating new tree
 BST bst = new BST();
 
 # inserting number 5 on tree.
